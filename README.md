@@ -47,6 +47,6 @@ ArchiProducts-Scraper/
 ├── requirements.txt # Dependencies
 ├── README.md # Documentation
 ├── .gitignore # Ignore unnecessary files
-├── images_archi/ # Downloaded images (auto-created)
+├── images_archi/ # Downloaded images 
 ├── output/ # Processed CSV files
-└── data/ # Raw scraped data (optional)
+└── data/ # Raw scraped data 

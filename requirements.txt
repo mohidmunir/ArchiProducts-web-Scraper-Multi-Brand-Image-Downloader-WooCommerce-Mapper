@@ -1,0 +1,9 @@
+undetected-chromedriver
+selenium
+beautifulsoup4
+lxml
+pandas
+requests
+tqdm
+python-dotenv
+numpy
